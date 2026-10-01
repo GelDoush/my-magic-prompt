@@ -1,3 +1,3 @@
 about() {
-  echo "My Magic Prompt is a built in terminal with customized commands"
+  echo "My Magic Prompt is a built in prompt with customized commands"
 }
